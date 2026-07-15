@@ -13,6 +13,11 @@ I make voice & speech AI **measurable** — building the evals, benchmarks, and 
 
 🧰 **Stack:** Python · KQL / Kusto · Azure AI Foundry · MCP · GitHub Copilot CLI
 
+**✍️ Recent writing** · Azure AI Foundry blog
+
+- [Post-Stream Refinement: Higher-Accuracy Real-Time Transcription](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-post-stream-refinement-higher-accuracy-real-time-transcription/4510038)
+- [Evaluate Before You Ship: The Voice Live Evaluation Harness](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluate-before-you-ship-introducing-the-voice-live-evaluation-harness/4523064)
+
 📌 [**reading-dna**](https://github.com/solarrezaei11/reading-dna) — two AI models compete to recommend books from your Goodreads history 🐍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Solar%20Rezaei-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solarrezaei/)
