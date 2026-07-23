@@ -18,21 +18,21 @@ I make voice & speech AI **measurable** — building the evals, benchmarks, and 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/post-stream-refinement-is-now-generally-available-in-microsoft-foundry/4540174"><img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTQwMTc0LWVQM3M4aw?revision=9" width="390" alt="Post-Stream Refinement is now generally available in Microsoft Foundry"></a><br>
+      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/post-stream-refinement-is-now-generally-available-in-microsoft-foundry/4540174"><img src="assets/blog/psr-ga.png" width="320" alt="Post-Stream Refinement is now generally available in Microsoft Foundry"></a><br>
       <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/post-stream-refinement-is-now-generally-available-in-microsoft-foundry/4540174"><b>Post-Stream Refinement is now generally available in Microsoft Foundry</b></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/for-the-first-time-real-time-transcription-goes-multilingual/4539089"><img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTM5MDg5LVFDaFAwMQ?revision=11" width="390" alt="For the first time, real-time transcription goes multilingual"></a><br>
+      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/for-the-first-time-real-time-transcription-goes-multilingual/4539089"><img src="assets/blog/multilingual.png" width="320" alt="For the first time, real-time transcription goes multilingual"></a><br>
       <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/for-the-first-time-real-time-transcription-goes-multilingual/4539089"><b>For the first time, real-time transcription goes multilingual</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluate-before-you-ship-introducing-the-voice-live-evaluation-harness/4523064"><img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTIzMDY0LXFTOWdOUg?revision=12" width="390" alt="Evaluate Before You Ship: The Voice Live Evaluation Harness"></a><br>
+      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluate-before-you-ship-introducing-the-voice-live-evaluation-harness/4523064"><img src="assets/blog/voicelive-harness.png" width="320" alt="Evaluate Before You Ship: The Voice Live Evaluation Harness"></a><br>
       <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluate-before-you-ship-introducing-the-voice-live-evaluation-harness/4523064"><b>Evaluate Before You Ship: The Voice Live Evaluation Harness</b></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-post-stream-refinement-higher-accuracy-real-time-transcription/4510038"><img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTEwMDM4LW1QTk9rbg?revision=8" width="390" alt="Post-Stream Refinement: Higher-Accuracy Real-Time Transcription"></a><br>
+      <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-post-stream-refinement-higher-accuracy-real-time-transcription/4510038"><img src="assets/blog/psr-preview.png" width="320" alt="Post-Stream Refinement: Higher-Accuracy Real-Time Transcription"></a><br>
       <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-post-stream-refinement-higher-accuracy-real-time-transcription/4510038"><b>Post-Stream Refinement: Higher-Accuracy Real-Time Transcription</b></a>
     </td>
   </tr>
