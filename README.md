@@ -15,8 +15,10 @@ I make voice & speech AI **measurable** — building the evals, benchmarks, and 
 
 **✍️ Recent writing** · Azure AI Foundry blog
 
-- [Post-Stream Refinement: Higher-Accuracy Real-Time Transcription](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-post-stream-refinement-higher-accuracy-real-time-transcription/4510038)
+- [Post-Stream Refinement is now generally available in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/post-stream-refinement-is-now-generally-available-in-microsoft-foundry/4540174)
+- [For the first time, real-time transcription goes multilingual](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/for-the-first-time-real-time-transcription-goes-multilingual/4539089)
 - [Evaluate Before You Ship: The Voice Live Evaluation Harness](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluate-before-you-ship-introducing-the-voice-live-evaluation-harness/4523064)
+- [Post-Stream Refinement: Higher-Accuracy Real-Time Transcription](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-post-stream-refinement-higher-accuracy-real-time-transcription/4510038)
 
 📌 [**reading-dna**](https://github.com/solarrezaei11/reading-dna) — two AI models compete to recommend books from your Goodreads history 🐍
 
